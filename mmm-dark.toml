@@ -128,7 +128,7 @@ ac-fg = "#d8dce0"
 # Background
 bg = "#0f1216"
 # Accents
-ac = "#383838"
+accents = "#383838"
 
 comment = "#777777"
 definition = "#71ADE7"
