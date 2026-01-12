@@ -34,7 +34,7 @@ diagnostic = { underline = { style = "curl" } }
 "ui.statusline.inactive" = { fg = "punctuation-light", bg = "panel" }
 
 # Bufferline - make active buffer clearly visible (like onelight-fixed-bufferline)
-"ui.bufferline.active" = { fg = "fg", bg = "bg", modifiers = ["bold"] }
+"ui.bufferline.active" = { fg = "active", bg = "bg", modifiers = ["bold"] }
 "ui.bufferline.background" = { bg = "bg" }
 "ui.bufferline" = { fg = "punctuation-light", bg = "panel" }
 
@@ -149,3 +149,4 @@ jump-label = "#FF6B35"
 diff-green = "#95CB82"
 diff-red = "#DFDF8E"
 diff-orange = "#FF9800"
+

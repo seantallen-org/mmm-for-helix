@@ -1,4 +1,4 @@
-# mmm-light.toml
+# mmm-dark.toml
 #
 # A mostly dark greyscale theme for the Helix editor.
 #
@@ -34,7 +34,7 @@ diagnostic = { underline = { style = "curl" } }
 "ui.statusline.inactive" = { fg = "punctuation-light", bg = "panel" }
 
 # Bufferline - make active buffer clearly visible (like onelight-fixed-bufferline)
-"ui.bufferline.active" = { fg = "fg", bg = "bg", modifiers = ["bold"] }
+"ui.bufferline.active" = { fg = "active", bg = "bg", modifiers = ["bold"] }
 "ui.bufferline.background" = { bg = "bg" }
 "ui.bufferline" = { fg = "punctuation-light", bg = "panel" }
 
